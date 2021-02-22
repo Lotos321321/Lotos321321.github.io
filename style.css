@@ -100,10 +100,12 @@ img{
 
 .aboutmepic{
     display: inline-block;
-    height: 500px;
+    height: 400px;
     width: 400px;
-    margin-left: 130px;
-    margin-top: -2%;
+    margin-left: 120px;
+    margin-top: -230px;
+    border: 5px solid #A43D3B;
+    border-radius: 13px;
 }
 
 
@@ -119,14 +121,14 @@ img{
     display: inline-block;
     position: relative;
     margin-left: -380px;
-    top: -50px;
+    top: 60px;
 }
 
 .abouth{
     display: inline-block;
     position: relative;
-     top: -230px;
-     margin-left: 30px;
+    top: -220px;
+    margin-left: 30px;
 } 
 
 .contacts{
@@ -134,28 +136,16 @@ img{
     display: inline-block;
     position: relative;
     top: 50px; 
-    margin-bottom: -150px;     
-    height: 130px;
+    margin-bottom: -160px;
     width: 100%;
 }
 
 .cont{
     color: gray;
     font-size: 24px;
-    margin-top: 60px;
+    margin-top: 30px;
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
 .page{
     height: 850px;
     width: 100%;
@@ -165,20 +155,18 @@ img{
     grid-template-rows: 300px;
     grid-row-gap: 100px;
     margin-left: 15%;
-
 }
 
-}
-
-.phone, .address, .email{
-    height: 500px;
-    width: 400px;
+.info{
     display: inline-block;
-    background: red;
-    border-radius: 10%;
+    position: relative;
+    border: 5px solid #A43D3B;
+    border-radius: 13px;
+    top: -45px;
+    height: 390px;
+    padding: 5px;
 }
 
-.phone{
-    
-}
+
+
 
