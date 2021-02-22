@@ -1,0 +1,135 @@
+@media only screen and (max-width: 1200px){
+ 
+    .aboutme{
+        margin-top: 3%;
+        margin-left: 170px;
+    } 
+}
+
+@media only screen and (max-width: 1282px){
+ 
+    .aboutme{
+        margin-top: 3%;
+        margin-left: 170px;
+    }
+    p.aboutp{
+        margin-left: 680px;
+        top: 56px;
+    }
+    
+    
+}
+
+@media  only screen and (max-width: 1332px){    
+    .aboutp{
+        top: 400px;
+        left: -420px;
+    }
+    .abouth{
+        top: 270px;
+        left: -420px;
+    }
+    .aboutmepic{
+        margin-left: 260px;
+    }
+    
+    p.aboutp{
+        text-align: center;
+    }
+    
+}
+
+@media  only screen and (max-width: 1068px){ 
+    .abouth{
+        top: 10px;
+        left: 220px;
+    }
+    p.aboutp{
+        top: 15px;
+        
+    }
+}
+@media  only screen and (max-width: 1044px){    
+    .aboutme{
+        margin-left: 15%;
+    }
+    
+    .portfolio{
+        grid-template-columns: repeat(2, 1fr);
+        height: 1200px;
+    }
+    
+    .contactnotify{
+        margin-top: 0;
+    }
+    
+}
+
+@media  only screen and (max-width: 990px){    
+    .aboutme{
+        left: -100px;
+        width: 200px;
+    }
+    p.aboutp{
+         width: 500px;
+    }
+    
+}
+
+@media only screen and (max-width: 768px);
+    
+    .aboutme{
+        margin-left: 15%;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 820px){
+    
+    .aboutme{
+        margin-left: -13%;
+    }
+    .aboutp{
+       top: 10%;
+    }
+}
+
+@media only screen and (max-width: 754px){  
+    .aboutme{
+        margin-left: 5%;
+        width: 500px;
+        
+    }
+    
+     .abouth{
+        top: 10px;
+        left: 230px;
+    }
+    p.aboutp{
+        
+        margin-left: 670px;
+        margin-top: -10px;
+    }
+}
+
+
+@media only screen and (max-width: 652px){
+    .portfolio{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .aboutme{
+        margin-left: 10%;
+    }
+    .aboutp{
+       
+        margin-left: 50px;
+        margin-top: 450px;
+    }
+    .abouth{
+        top: 10px;
+        left: 40px;
+    }
+}
+
+   
